@@ -88,4 +88,4 @@ def read_csv_to_queue(filename: str):
 if __name__ == "__main__":  
     # Ask the user if they'd like to open the RabbitMQ Admin site
     offer_rabbitmq_admin_site()
-    read_csv_to_queue('fraudTrain.csv')
+    read_csv_to_queue('smaller_fraudTrain.csv')
