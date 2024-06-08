@@ -1,4 +1,4 @@
-# streaming-07-fraud
+# streaming-07-fraud-smaller
 Week 7 NWMSU Streaming Data
 
 Kellie Bernhardt
@@ -14,7 +14,7 @@ The original dataset includes descriptions of the customer, mecherant, time and 
 
 ## Visuals
 
-![alt text](https://github.com/krh5284/streaming-07-fraud/blob/main/consumer_producer.png)
+![alt text](https://github.com/krh5284/streaming-07-fraud-smaller/blob/main/consumer_producer.png)
 
 ## Installation
 Pika must be installed before importing. 
