@@ -9,6 +9,7 @@ Producer and consumer built to demonstrate a method to stream credit card transa
 
 The original dataset is from Kaggle and can be found here:
 (https://www.kaggle.com/datasets/kartik2112/fraud-detection?select=fraudTrain.csv)
+
 The original dataset includes descriptions of the customer, mecherant, time and location and more. Because the origial file was so large, Pandas was used to reduce to the first 500,000 rows so that the repository could be pushed to GitHub with ease
 
 ## Visuals
